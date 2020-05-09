@@ -5258,6 +5258,9 @@ a {
   .section-9 {
     height: 283px;
   }
+  .column-9 {
+    display: none;
+  }
   .text-block-3 {
     margin-top: 48px;
   }
@@ -6176,7 +6179,7 @@ a {
     color: #fff;
   }
   .footer {
-    height: 435px;
+    height: 331px;
     margin-top: 1582px;
     padding-right: 20px;
     padding-left: 20px;
@@ -6331,7 +6334,9 @@ a {
     margin-top: -13px;
   }
   .text-block-3 {
-    margin-top: -95px;
+    display: block;
+    margin-top: 0px;
+    margin-left: auto;
     font-size: 11px;
     text-align: center;
   }
@@ -6615,7 +6620,7 @@ a {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    margin-top: -133px;
+    margin-top: -67px;
     margin-right: auto;
     margin-left: auto;
     -webkit-box-pack: center;
