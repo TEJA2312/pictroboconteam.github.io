@@ -5511,6 +5511,10 @@ a {
   box-shadow: 1px 1px 3px 0 #000;
 }
 
+.section-25 {
+  height: 80px;
+}
+
 @media screen and (max-width: 991px) {
   .nav-link {
     color: #fff;
@@ -6682,12 +6686,15 @@ a {
     grid-template-columns: 1fr;
   }
   .column-5 {
-    height: auto;
+    height: 200px;
+    border: 10px solid #fff;
   }
   .column-6 {
     height: 200px;
+    border: 10px solid #fff;
   }
   .youtube {
+    margin-top: 0px;
     padding-bottom: 0px;
     border-width: 0px;
   }
@@ -7121,6 +7128,9 @@ a {
     font-size: 11px;
     text-align: center;
   }
+  .section-19 {
+    margin-top: 527px;
+  }
   .lottie-animation-14 {
     width: 300px;
     height: 100px;
@@ -7197,9 +7207,11 @@ a {
   }
   .column-71 {
     height: 200px;
+    border: 10px solid #fff;
   }
   .column-72 {
     height: 200px;
+    border: 10px solid #fff;
   }
   .youtube-3 {
     margin-top: 0px;
